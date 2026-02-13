@@ -1,0 +1,195 @@
+Column Name,Description
+Unnamed: 0,Original row index from the source data.
+ID,Unique identifier for each participant.
+trial,The sequential number of the trial performed by the participant.
+S1,Magnitude of the reward/outcome for 'Self' in Option 1.
+O1,Magnitude of the reward/outcome for 'Other' in Option 1.
+S2,Magnitude of the reward/outcome for 'Self' in Option 2.
+O2,Magnitude of the reward/outcome for 'Other' in Option 2.
+choice,The option selected by the participant (1 or 2).
+real_answer,The objectively correct answer for the trial. Only relevant for Phase 2 of the task
+correct,"Binary indicator of whether the choice was correct (1 = Yes, 0 = No)."
+SI,Self Interest Attribution
+HI,Harmful Intent Attribution
+agency,Measure of percieved agency of the partner
+classification,Categorical classification of the participant's behavior.
+attention,Attention check score or binary pass/fail indicator.
+server_alpha_ppt,Alpha parameter value for PPT estimated by the server for matching
+server_beta_ppt,Beta parameter value for PPT estimated by the server for matching
+server_alpha_par,Alpha parameter value for PAR estimated by the server for matching
+server_beta_par,Beta parameter value for PAR estimated by the server for matching
+RT,Response time for the trial (ms).
+Phase,The experimental phase
+correctSum,Cumulative count of correct answers for the participant in phase 2
+Education,Reported educational background of the participant.
+Q6,Participant's age.
+Q7,Participant's gender.
+Q8,Participant's ethnicity.
+Q9,Participant's country of residence.
+Context,The experimental or situational context from the Cyberball (included or excluded)
+NSafeDay,Perceived safety during the daytime.
+NSafeNight,Perceived safety during the nighttime.
+BVIgnored,Victimisation experience: Being ignored.
+BVLaughed,Victimisation experience: Being laughed at.
+BVBitten,Victimisation experience: Physical assault (bitten).
+BVStolen,Victimisation experience: Property theft.
+BVSexual,Victimisation experience: Sexual harassment or assault.
+EDS1,Everyday Discrimination Scale item 1 (Score 0-5)
+EDS2,Everyday Discrimination Scale item 2 (Score 0-5)
+EDS3,Everyday Discrimination Scale item 3 (Score 0-5)
+EDS4,Everyday Discrimination Scale item 4 (Score 0-5)
+EDS5,Everyday Discrimination Scale item 5 (Score 0-5)
+EDSText,Reason for discrimination (categorical).
+EDSFree,Reason for discrimination (open text).
+LE_1,Life Event Scale item 1 (0 or 1)
+LE_1a,Life Event 1 follow-up response (Impact).
+LE_1b,Life Event 1 follow-up response (Recency).
+LE_2,Life Event Scale item 2 (0 or 1)
+LE_2a,Life Event 2 follow-up response (Impact).
+LE_2b,Life Event 2 follow-up response (Recency).
+LE_3,Life Event Scale item 3 (0 or 1)
+LE_3a,Life Event 3 follow-up response (Impact).
+LE_3b,Life Event 3 follow-up response (Recency).
+LE_4,Life Event Scale item 4 (0 or 1)
+LE_4a,Life Event 4 follow-up response (Impact).
+LE_4b,Life Event 4 follow-up response (Recency).
+LE_5,Life Event Scale item 5 (0 or 1)
+LE_5a,Life Event 5 follow-up response (Impact).
+LE_5b,Life Event 5 follow-up response (Recency).
+LE_6,Life Event Scale item 6 (0 or 1)
+LE_6a,Life Event 6 follow-up response (Impact).
+LE_6b,Life Event 6 follow-up response (Recency).
+LE_7,Life Event Scale item 7 (0 or 1)
+LE_7a,Life Event 7 follow-up response (Impact).
+LE_7b,Life Event 7 follow-up response (Recency).
+LE_8,Life Event Scale item 8 (0 or 1)
+LE_8a,Life Event 8 follow-up response (Impact).
+LE_8b,Life Event 8 follow-up response (Recency).
+LE_9,Life Event Scale item 9 (0 or 1)
+LE_9a,Life Event 9 follow-up response (Impact).
+LE_9b,Life Event 9 follow-up response (Recency).
+LE_10,Life Event Scale item 10 (0 or 1)
+LE_10a,Life Event 10 follow-up response (Impact).
+LE_10b,Life Event 10 follow-up response (Recency).
+LE_11,Life Event Scale item 11 (0 or 1)
+LE_11a,Life Event 11 follow-up response (Impact).
+LE_11b,Life Event 11 follow-up response (Recency).
+LE_12,Life Event Scale item 12 (0 or 1)
+LE_12a,Life Event 12 follow-up response (Impact).
+LE_12b,Life Event 12 follow-up response (Recency).
+LE_13,Life Event Scale item 13 (0 or 1)
+LE_13a,Life Event 13 follow-up response (Impact).
+LE_13b,Life Event 13 follow-up response (Recency).
+LE_14,Life Event Scale item 14 (0 or 1)
+LE_14a,Life Event 14 follow-up response (Impact).
+LE_14b,Life Event 14 follow-up response (Recency).
+LE_15,Life Event Scale item 15 (0 or 1)
+LE_15a,Life Event 15 follow-up response (Impact).
+LE_15b,Life Event 15 follow-up response (Recency).
+LE_16,Life Event Scale item 16 (0 or 1)
+LE_16a,Life Event 16 follow-up response (Impact).
+LE_16b,Life Event 16 follow-up response (Recency).
+LE_17,Life Event Scale item 17 (0 or 1)
+LE_17a,Life Event 17 follow-up response (Impact).
+LE_17b,Life Event 17 follow-up response (Recency).
+LE_18,Life Event Scale item 18 (0 or 1)
+LE_18a,Life Event 18 follow-up response (Impact).
+LE_18b,Life Event 18 follow-up response (Recency).
+LE_19,Life Event Scale item 19 (0 or 1)
+LE_19a,Life Event 19 follow-up response (Impact).
+LE_19b,Life Event 19 follow-up response (Recency).
+LE_20,Life Event Scale item 20 (0 or 1)
+LE_20a,Life Event 20 follow-up response (Impact).
+LE_20b,Life Event 20 follow-up response (Recency).
+LE_21,Life Event Scale item 21 (0 or 1)
+LE_21a,Life Event 21 follow-up response (Impact).
+LE_21b,Life Event 21 follow-up response (Recency).
+LE_22,Life Event Scale item 22 (0 or 1)
+LE_22a,Life Event 22 follow-up response (Impact).
+LE_22b,Life Event 22 follow-up response (Recency).
+LE_23,Life Event Scale item 23 (0 or 1)
+LE_23a,Life Event 23 follow-up response (Impact).
+LE_23b,Life Event 23 follow-up response (Recency).
+LE_24,Life Event Scale item 24 (0 or 1)
+LE_24a,Life Event 24 follow-up response (Impact).
+LE_24b,Life Event 24 follow-up response (Recency).
+LE_25,Life Event Scale item 25 (0 or 1)
+LE_25a,Life Event 25 follow-up response (Impact).
+LE_25b,Life Event 25 follow-up response (Recency).
+SP1,State Paranoia scale item 1 (Score 0-3)
+SP2,State Paranoia scale item 2 (Score 0-3)
+SP3,State Paranoia scale item 3 (Score 0-3)
+SP4,State Paranoia scale item 4 (Score 0-3)
+SP5,State Paranoia scale item 5 (Score 0-3)
+GP1,Trait Paranoia Item 1 (Score 1-5)
+GP2,Trait Paranoia Item 2 (Score 1-5)
+GP3,Trait Paranoia Item 3 (Score 1-5)
+GP4,Trait Paranoia Item 4 (Score 1-5)
+GP5,Trait Paranoia Item 5 (Score 1-5)
+GP6,Trait Paranoia Item 6 (Score 1-5)
+GP7,Trait Paranoia Item 7 (Score 1-5)
+GP8,Trait Paranoia Item 8 (Score 1-5)
+GP9,Trait Paranoia Item 9 (Score 1-5)
+GP10,Trait Paranoia Item 10 (Score 1-5)
+GP11,Trait Paranoia Item 11 (Score 1-5)
+GP12,Trait Paranoia Item 12 (Score 1-5)
+GP13,Trait Paranoia Item 13 (Score 1-5)
+GP14,Trait Paranoia Item 14 (Score 1-5)
+GP15,Trait Paranoia Item 15 (Score 1-5)
+GP16,Trait Paranoia Item 16 (Score 1-5)
+GP17,Trait Paranoia Item 17 (Score 1-5)
+GP18,Trait Paranoia Item 18 (Score 1-5)
+IMPSelfn1,Implicit/Negative Self-evaluation item 1.
+IMPSelfn2,Implicit/Negative Self-evaluation item 2.
+IMPSelfn3,Implicit/Negative Self-evaluation item 3.
+IMPSelfn4,Implicit/Negative Self-evaluation item 4.
+IMPSelfn5,Implicit/Negative Self-evaluation item 5.
+IMPSelfn6,Implicit/Negative Self-evaluation item 6.
+IMPSelfp1,Implicit/Positive Self-evaluation item 1.
+IMPSelfp2,Implicit/Positive Self-evaluation item 2.
+IMPSelfp3,Implicit/Positive Self-evaluation item 3.
+IMPSelfp4,Implicit/Positive Self-evaluation item 4.
+IMPSelfp5,Implicit/Positive Self-evaluation item 5.
+IMPSelfp6,Implicit/Positive Self-evaluation item 6.
+IMPOtherp1,Implicit/Positive Other-evaluation item 1.
+IMPOtherp2,Implicit/Positive Other-evaluation item 2.
+IMPOtherp3,Implicit/Positive Other-evaluation item 3.
+IMPOtherp4,Implicit/Positive Other-evaluation item 4.
+IMPOtherp5,Implicit/Positive Other-evaluation item 5.
+IMPOtherp6,Implicit/Positive Other-evaluation item 6.
+IMPOthern1,Implicit/Negative Other-evaluation item 1.
+IMPOthern2,Implicit/Negative Other-evaluation item 2.
+IMPOthern3,Implicit/Negative Other-evaluation item 3.
+IMPOthern4,Implicit/Negative Other-evaluation item 4.
+IMPOthern5,Implicit/Negative Other-evaluation item 5.
+IMPOthern6,Implicit/Negative Other-evaluation item 6.
+ThrPercen,Threat perception percentage.
+RGPTSPers,Revised Green et al. Paranoid Thoughts Scale - Persecutory subscale score.
+RGPTSSref,Revised Green et al. Paranoid Thoughts Scale - Referential subscale score.
+DASSTot,"Total score for the Depression, Anxiety, and Stress Scale (DASS)."
+sum_LE_1,Summary score for Life Event 1.
+sum_LE_2,Summary score for Life Event 2
+sum_LE_3,Summary score for Life Event 3
+sum_LE_4,Summary score for Life Event 4
+sum_LE_5,Summary score for Life Event 5
+sum_LE_6,Summary score for Life Event 6
+sum_LE_7,Summary score for Life Event 7
+sum_LE_8,Summary score for Life Event 8
+sum_LE_9,Summary score for Life Event 9
+sum_LE_10,Summary score for Life Event 10
+sum_LE_11,Summary score for Life Event 11
+sum_LE_12,Summary score for Life Event 12
+sum_LE_13,Summary score for Life Event 13
+sum_LE_14,Summary score for Life Event 14
+sum_LE_15,Summary score for Life Event 15
+sum_LE_16,Summary score for Life Event 16
+sum_LE_17,Summary score for Life Event 17
+sum_LE_18,Summary score for Life Event 18
+sum_LE_19,Summary score for Life Event 19
+sum_LE_20,Summary score for Life Event 20
+sum_LE_21,Summary score for Life Event 21
+sum_LE_22,Summary score for Life Event 22
+sum_LE_23,Summary score for Life Event 23
+sum_LE_24,Summary score for Life Event 24
+sum_LE_25,Summary score for Life Event 25
+n_t,Total number of trials of the Intentions Game completed by the participant.
