@@ -25,10 +25,11 @@ The task consists of three distinct phases[cite: 701]:
 
 ## Citation
 If you use this code or data, please cite:
-> Kingston, J., Ellett, L., Richards, L., Burgess, H., & Barnby, J. M. (2025). *Social exclusion increases paranoia and reduces self and other learning flexibility in adolescents.* Clinical Psychological Science.
+> Kingston, J., Ellett, L., Richards, L., Burgess, H., & Barnby, J. M. (2026). *Social exclusion increases paranoia and reduces self and other learning flexibility in adolescents.* Clinical Psychological Science.
 
 Related theoretical work:
 > Barnby, J. M., Dayan, P., & Bell, V. (2023). *Formalising social representation to explain psychiatric symptoms*. Trends in Cognitive Sciences.
+
 > Barnby, J. M., Nguyen, J., Griem, J., Wloszek, M., Burgess, H., Richards, L. J., ... & London Personality and Mood Disorders Consortium. (2025). *Self-other generalisation shapes social interaction and is disrupted in borderline personality disorder.* Elife, 14, RP104008.
 ---
 **License:** This project is licensed under the AGPL-3.0 License.
