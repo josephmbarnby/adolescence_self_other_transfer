@@ -11,9 +11,9 @@ The study is built upon two core mechanisms of social cognitive theory:
 * **Social Contagion:** The mechanism through which exposure to a partner’s preferences elicits a shift in one's own sense of self, leading toward an "interpersonal steady state".
 
 ## Experimental Paradigm: The Intentions Game
-[cite_start]The task consists of three distinct phases[cite: 701]:
-1. [cite_start]**Phase 1 (Self-Baseline):** Participants make forced choices between options to establish their baseline social preferences ($\theta_{ppt}$)[cite: 708, 717].
-2. [cite_start]**Phase 2 (Social Learning):** Participants observe and learn to predict the decisions of an anonymous partner, receiving feedback to update their partner model ($\theta_{par}$)[cite: 727, 736].
+The task consists of three distinct phases[cite: 701]:
+1. [**Phase 1 (Self-Baseline):** Participants make forced choices between options to establish their baseline social preferences ($\theta_{ppt}$)[cite: 708, 717].
+2. **Phase 2 (Social Learning):** Participants observe and learn to predict the decisions of an anonymous partner, receiving feedback to update their partner model ($\theta_{par}$)[cite: 727, 736].
 3. **Phase 3 (Post-Exposure):** Participants make choices for themselves again. [cite_start]This phase measures **Social Contagion** by assessing how the participant’s preferences shifted following the partner exposure[cite: 744, 745].
 
 ## Repository Structure
