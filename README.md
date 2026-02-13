@@ -17,7 +17,7 @@ The task consists of three distinct phases[cite: 701]:
 3. **Phase 3 (Post-Exposure):** Participants make choices for themselves again. This phase measures **Social Contagion** by assessing how the participant’s preferences shifted following the partner exposure.
 
 ## Repository Structure
-* **`/Data`**: Contains behavioral data from the Intentions Game.
+* **`/Data`**: Contains behavioral data from the Intentions Game & Questionnaires. Data Dictionary Included.
 * **`/Models`**: R and MATLAB scripts for Bayesian generative models[cite: 81].
 * **`/HBI`**: Scripts for Hierarchical Bayesian Inference (HBI) used for concurrent model fitting and group-level comparison.
 * **`/data_sim`**: Scripts for model-based simulations and agent-based modeling of group attractor dynamics.
